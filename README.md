@@ -1,4 +1,4 @@
-# WeatherPy with Python APIs
+# PlanMyTrip App
 
 ## Overview
 
